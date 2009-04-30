@@ -1,0 +1,82 @@
+8
+
+dir
+10
+svn+ssh://ryan@svn1/var/www/repo/SuperPig/Super%20Pig%20Beta/Super%20%20Pig%20Stuff
+svn+ssh://ryan@svn1/var/www/repo
+
+
+
+2008-12-02T18:35:19.007513Z
+10
+ryan
+
+
+svn:special svn:externals svn:needs-lock
+
+
+
+
+
+
+
+
+
+
+
+aa3ddb7f-2a6f-47d7-aebb-116027b1a2a3
+
+When Pigs Fly
+dir
+
+build
+dir
+
+SuperPig.zip
+file
+
+
+
+
+2008-12-02T19:23:49.000000Z
+97d7275c4f040a8c14b3f178f23cd59c
+2008-12-02T18:35:19.007513Z
+10
+ryan
+has-props
+
+When Pigs Fly.zip
+file
+
+
+
+
+2008-12-02T19:23:51.000000Z
+cb4343c561e42a5e9a4ad0f557e120d5
+2008-12-02T18:35:19.007513Z
+10
+ryan
+has-props
+
+distribution_identity.cer
+file
+
+
+
+
+2008-12-02T19:23:51.000000Z
+0e02b0fffb261ce7d32ccf1b4f1a0f5c
+2008-12-02T18:35:19.007513Z
+10
+ryan
+has-props
+
+untitled folder
+dir
+
+When Pigs Fly.xcodeproj
+dir
+
+odl explosition
+dir
+

@@ -1,0 +1,40 @@
+8
+
+dir
+10
+svn+ssh://ryan@svn1/var/www/repo/SuperPig/build/When%20Pigs%20Fly.build/Release-iphonesimulator/Super%20Pig.build/Objects-normal/i386
+svn+ssh://ryan@svn1/var/www/repo
+
+
+
+2008-12-02T18:35:19.007513Z
+10
+ryan
+
+
+svn:special svn:externals svn:needs-lock
+
+
+
+
+
+
+
+
+
+
+
+aa3ddb7f-2a6f-47d7-aebb-116027b1a2a3
+
+Super Pig.LinkFileList
+file
+
+
+
+
+2008-12-02T19:26:37.000000Z
+b80bf0fb355c984f82aed1fc6239c4cf
+2008-12-02T18:35:19.007513Z
+10
+ryan
+

@@ -1,0 +1,26 @@
+{ "enemys": [
+{ "ypos": -1, "xpos": 400, "velocity.x": -1,"velocity.y":-2,  "level": 4, "energy": 2, "path": 1 },
+{ "ypos": -1, "xpos": 800, "velocity.x": -1,"velocity.y":-10, "level": 4, "energy": 3, "path": 1  },
+{ "ypos": -1, "xpos": 1200,"velocity.x": -4,"velocity.y":4,   "level": 5, "energy": 2, "path": 1  },
+{ "ypos": -1, "xpos": 1400,"velocity.x": -2,"velocity.y":10,  "level": 5, "energy": 3, "path": 1  },
+
+{ "ypos": -1, "xpos": 1800, "velocity.x": -1,"velocity.y":-2, "level": 4, "energy": 2, "path": 1 },
+{ "ypos": -1, "xpos": 2000, "velocity.x": -5,"velocity.y":-6, "level": 4, "energy": 2, "path": 1  },
+{ "ypos": -1, "xpos": 2200,"velocity.x": -4,"velocity.y":4,   "level": 5, "energy": 2, "path": 1  },
+{ "ypos": -1, "xpos": 2700,"velocity.x": -2,"velocity.y":10,  "level": 5, "energy": 3, "path": 1  },
+
+{ "ypos": -1, "xpos": 3100,"velocity.x": -2,"velocity.y":10,  "level": 5, "energy": 3, "path": 1  },
+{ "ypos": -1, "xpos": 3400,"velocity.x": -2,"velocity.y":6,  "level": 6, "energy": 3, "path": 1  },
+{ "ypos": -1, "xpos": 3500,"velocity.x": -2,"velocity.y":8,  "level": 6, "energy": 3, "path": 1  },
+
+{ "ypos": -1, "xpos": 3900,"velocity.x": -2,"velocity.y":10,  "level": 6, "energy": 3, "path": 1  },
+{ "ypos": -1, "xpos": 4200,"velocity.x": -2,"velocity.y":6,  "level": 8, "energy": 3, "path": 1  },
+{ "ypos": -1, "xpos": 4400,"velocity.x": -2,"velocity.y":8,  "level": 6, "energy": 3, "path": 1  },
+
+{ "ypos": 50, "xpos": 4800,"velocity.x": -2,"velocity.y":10,  "level": 6, "energy": 3, "path": 1  },
+{ "ypos": 150, "xpos": 4800,"velocity.x": -2,"velocity.y":6,  "level": 6, "energy": 3, "path": 1  },
+{ "ypos": -1, "xpos": 5300,"velocity.x": -2,"velocity.y":8,  "level": 8, "energy": 3, "path": 1  },
+
+
+{ "ypos": 120, "xpos": 5800,"velocity.x": -2,"velocity.y":8,  "level": 14, "energy": 10, "path": 1 }
+]}

@@ -1,0 +1,120 @@
+8
+
+dir
+10
+svn+ssh://ryan@svn1/var/www/repo/SuperPig/Super%20Pig%20Beta/Super%20%20Pig%20Stuff/build/When%20Pigs%20Fly.build/AdHoc-iphonesimulator/Super%20Pig.build
+svn+ssh://ryan@svn1/var/www/repo
+
+
+
+2008-12-02T18:35:19.007513Z
+10
+ryan
+
+
+svn:special svn:externals svn:needs-lock
+
+
+
+
+
+
+
+
+
+
+
+aa3ddb7f-2a6f-47d7-aebb-116027b1a2a3
+
+Objects-normal
+dir
+
+Super Pig-project-headers.hmap
+file
+
+
+
+
+2008-12-02T19:17:10.000000Z
+1835d318457ecadf2235ac76bdb792be
+2008-12-02T18:35:19.007513Z
+10
+ryan
+has-props
+
+Super Pig-own-target-headers.hmap
+file
+
+
+
+
+2008-12-02T19:17:10.000000Z
+816f47c9d5c16bc00c16545031188ac8
+2008-12-02T18:35:19.007513Z
+10
+ryan
+has-props
+
+Super Pig.hmap
+file
+
+
+
+
+2008-12-02T19:17:10.000000Z
+1186f061ea801cebe8856d13af7824de
+2008-12-02T18:35:19.007513Z
+10
+ryan
+has-props
+
+Super Pig~.dep
+file
+
+
+
+
+2008-12-02T19:17:10.000000Z
+06d8643281050f3be00b9a9cd8facacd
+2008-12-02T18:35:19.007513Z
+10
+ryan
+
+Super Pig-all-target-headers.hmap
+file
+
+
+
+
+2008-12-02T19:17:10.000000Z
+816f47c9d5c16bc00c16545031188ac8
+2008-12-02T18:35:19.007513Z
+10
+ryan
+has-props
+
+Super Pig.dep
+file
+
+
+
+
+2008-12-02T19:17:10.000000Z
+c5355197dff9861693722f15f9a43c71
+2008-12-02T18:35:19.007513Z
+10
+ryan
+
+Super Pig-generated-files.hmap
+file
+
+
+
+
+2008-12-02T19:17:10.000000Z
+fd8314defc70a8778956f026c0ddfd19
+2008-12-02T18:35:19.007513Z
+10
+ryan
+has-props
+

@@ -1,0 +1,26 @@
+{ "enemys": [
+	{ "ypos": -1, "xpos": 400, "velocity.x": -1,"velocity.y":-2,  "level": 2, "energy": 2, "path": 1, "aggression":1 },
+	{ "ypos": -1, "xpos": 800, "velocity.x": -1,"velocity.y":-10, "level": 1, "energy": 2, "path": 1, "aggression":2  },
+	{ "ypos": -1, "xpos": 1200,"velocity.x": -4,"velocity.y":4,   "level": 2, "energy": 2, "path": 1, "aggression":2  },
+	{ "ypos": -1, "xpos": 1400,"velocity.x": -2,"velocity.y":10,  "level": 2, "energy": 3, "path": 1, "aggression":1  },
+
+	{ "ypos": -1, "xpos": 1800, "velocity.x": -1,"velocity.y":-2, "level": 2, "energy": 2, "path": 1, "aggression":2 },
+	{ "ypos": -1, "xpos": 2000, "velocity.x": -5,"velocity.y":-6, "level": 3, "energy": 2, "path": 1, "aggression":3  },
+	{ "ypos": -1, "xpos": 2200,"velocity.x": -4,"velocity.y":4,   "level": 3, "energy": 2, "path": 1, "aggression":2  },
+	{ "ypos": -1, "xpos": 2700,"velocity.x": -2,"velocity.y":10,  "level": 2, "energy": 3, "path": 1, "aggression":2  },
+
+	{ "ypos": -1, "xpos": 3100,"velocity.x": -2,"velocity.y":10,  "level": 3, "energy": 3, "path": 1, "aggression":2  },
+
+	{ "ypos": -1, "xpos": 3600,"velocity.x": -2,"velocity.y":8,  "level": 11, "energy": 10, "path": 1, "aggression":3 }
+],
+"bonus":[
+	{ "ypos": 288, "xpos":  800, "velocity.x": 0,"velocity.y":0,  "type":34 },
+	{ "ypos": 285, "xpos": 1200, "velocity.x": 0,"velocity.y":0,  "type":50 },
+	{ "ypos": 285, "xpos": 1370, "velocity.x": 0,"velocity.y":0,  "type":56 },
+	{ "ypos": 280, "xpos": 1700, "velocity.x": 0,"velocity.y":0,  "type":55 },
+	{ "ypos": 287, "xpos": 1840, "velocity.x": 0,"velocity.y":0,  "type":54 },
+	{ "ypos": 287, "xpos": 2140, "velocity.x": 0,"velocity.y":0,  "type":55 },
+	{ "ypos": 287, "xpos": 2540, "velocity.x": 0,"velocity.y":0,  "type":30 },
+	{ "ypos": 287, "xpos": 3100, "velocity.x": 0,"velocity.y":0,  "type":51 },
+	{ "ypos": 287, "xpos": 3100, "velocity.x": 0,"velocity.y":0,  "type":54 }
+]}

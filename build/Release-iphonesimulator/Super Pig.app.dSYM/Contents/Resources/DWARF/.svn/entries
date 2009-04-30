@@ -1,0 +1,41 @@
+8
+
+dir
+10
+svn+ssh://ryan@svn1/var/www/repo/SuperPig/build/Release-iphonesimulator/Super%20Pig.app.dSYM/Contents/Resources/DWARF
+svn+ssh://ryan@svn1/var/www/repo
+
+
+
+2008-12-02T18:35:19.007513Z
+10
+ryan
+
+
+svn:special svn:externals svn:needs-lock
+
+
+
+
+
+
+
+
+
+
+
+aa3ddb7f-2a6f-47d7-aebb-116027b1a2a3
+
+Super Pig
+file
+
+
+
+
+2008-12-02T19:25:38.000000Z
+6125dac91ee28a013ca2b0d7fa6797d7
+2008-12-02T18:35:19.007513Z
+10
+ryan
+has-props
+

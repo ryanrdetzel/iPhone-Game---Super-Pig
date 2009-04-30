@@ -1,0 +1,6 @@
+,
+"bonus":[
+	{ "ypos": 287, "xpos": 400, "velocity.x": 0,"velocity.y":0,  "type":30 },
+	{ "ypos": 287, "xpos": 1300, "velocity.x": 0,"velocity.y":0,  "type":33 },
+	{ "ypos": 287, "xpos": 1850, "velocity.x": 0,"velocity.y":0,  "type":34 }
+]

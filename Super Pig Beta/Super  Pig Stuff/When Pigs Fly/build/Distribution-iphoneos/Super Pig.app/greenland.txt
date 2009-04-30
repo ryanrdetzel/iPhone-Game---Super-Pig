@@ -1,0 +1,13 @@
+{ "enemys": [
+{ "ypos": -1, "xpos": 400, "velocity.x": -1,"velocity.y":-2,  "level": 1, "energy": 2, "path": 1 },
+{ "ypos": -1, "xpos": 800, "velocity.x": -1,"velocity.y":-10, "level": 1, "energy": 2, "path": 1  },
+{ "ypos": -1, "xpos": 1200,"velocity.x": -4,"velocity.y":4,   "level": 2, "energy": 1, "path": 1  },
+{ "ypos": -1, "xpos": 1400,"velocity.x": -2,"velocity.y":10,  "level": 1, "energy": 1, "path": 1  },
+
+{ "ypos": -1, "xpos": 1800, "velocity.x": -1,"velocity.y":-2, "level": 2, "energy": 2, "path": 1 },
+{ "ypos": -1, "xpos": 2000, "velocity.x": -5,"velocity.y":-6, "level": 2, "energy": 2, "path": 1  },
+{ "ypos": -1, "xpos": 2200,"velocity.x": -4,"velocity.y":4,   "level": 2, "energy": 2, "path": 1  },
+{ "ypos": -1, "xpos": 2700,"velocity.x": -2,"velocity.y":15,  "level": 2, "energy": 2, "path": 1  },
+
+{ "ypos": 200, "xpos": 3200,"velocity.x": -2,"velocity.y":15,  "level": 10, "energy": 10, "path": 1 }
+]}

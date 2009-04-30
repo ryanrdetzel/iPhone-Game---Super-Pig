@@ -1,0 +1,41 @@
+8
+
+dir
+10
+svn+ssh://ryan@svn1/var/www/repo/SuperPig/build/AdHoc-iphoneos/Super%20Pig.app.dSYM/Contents/Resources/DWARF
+svn+ssh://ryan@svn1/var/www/repo
+
+
+
+2008-12-02T18:35:19.007513Z
+10
+ryan
+
+
+svn:special svn:externals svn:needs-lock
+
+
+
+
+
+
+
+
+
+
+
+aa3ddb7f-2a6f-47d7-aebb-116027b1a2a3
+
+Super Pig
+file
+
+
+
+
+2008-12-02T19:24:54.000000Z
+1734c3c008dbb8156637094c43554863
+2008-12-02T18:35:19.007513Z
+10
+ryan
+has-props
+

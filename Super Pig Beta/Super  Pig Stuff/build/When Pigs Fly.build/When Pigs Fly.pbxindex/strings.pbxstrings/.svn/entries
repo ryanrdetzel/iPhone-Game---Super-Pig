@@ -1,0 +1,54 @@
+8
+
+dir
+10
+svn+ssh://ryan@svn1/var/www/repo/SuperPig/Super%20Pig%20Beta/Super%20%20Pig%20Stuff/build/When%20Pigs%20Fly.build/When%20Pigs%20Fly.pbxindex/strings.pbxstrings
+svn+ssh://ryan@svn1/var/www/repo
+
+
+
+2008-12-02T18:35:19.007513Z
+10
+ryan
+
+
+svn:special svn:externals svn:needs-lock
+
+
+
+
+
+
+
+
+
+
+
+aa3ddb7f-2a6f-47d7-aebb-116027b1a2a3
+
+control
+file
+
+
+
+
+2008-12-02T19:17:09.000000Z
+299a75055fd6c1df2782db4a166a8a3b
+2008-12-02T18:35:19.007513Z
+10
+ryan
+has-props
+
+strings
+file
+
+
+
+
+2008-12-02T19:17:09.000000Z
+0b01a72765a59a9671b24281dbdf6b24
+2008-12-02T18:35:19.007513Z
+10
+ryan
+has-props
+

@@ -1,0 +1,40 @@
+8
+
+dir
+10
+svn+ssh://ryan@svn1/var/www/repo/SuperPig/Super%20Pig%20Beta/Super%20%20Pig%20Stuff/build/Release-iphoneos/SuperPig.app/_CodeSignature
+svn+ssh://ryan@svn1/var/www/repo
+
+
+
+2008-12-02T18:35:19.007513Z
+10
+ryan
+
+
+svn:special svn:externals svn:needs-lock
+
+
+
+
+
+
+
+
+
+
+
+aa3ddb7f-2a6f-47d7-aebb-116027b1a2a3
+
+CodeResources
+file
+
+
+
+
+2008-12-02T19:14:59.000000Z
+d3e8e3419bacecc7a00c59471e1c8488
+2008-12-02T18:35:19.007513Z
+10
+ryan
+

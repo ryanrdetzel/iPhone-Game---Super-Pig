@@ -1,0 +1,47 @@
+8
+
+dir
+10
+svn+ssh://ryan@svn1/var/www/repo/SuperPig/Super%20Pig%20Beta/Super%20%20Pig%20Stuff/build/Release-iphoneos
+svn+ssh://ryan@svn1/var/www/repo
+
+
+
+2008-12-02T18:35:19.007513Z
+10
+ryan
+
+
+svn:special svn:externals svn:needs-lock
+
+
+
+
+
+
+
+
+
+
+
+aa3ddb7f-2a6f-47d7-aebb-116027b1a2a3
+
+SuperPig.zip
+file
+
+
+
+
+2008-12-02T19:15:49.000000Z
+ed197959b7fd4482d77408b4eabe44ac
+2008-12-02T18:35:19.007513Z
+10
+ryan
+has-props
+
+Super Pig.app.dSYM
+dir
+
+SuperPig.app
+dir
+

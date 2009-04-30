@@ -1,0 +1,42 @@
+BUGS
+- When coming back to the iPhone after it self-locks, and after me unlocking it, it shows the game screen, but is unresponsive to touch.
+
+TO DO
+- add enemy shooting
+- add bonus items
+- must kill BOSS AND all of the alients to win
+- High score list.
+- Options menu
+- Basic sounds
+- What happens at the end levels?
+- Don't check collision with non active enemys
+- Remove bonus before we start another
+
+MAYBE
+- Adjust speed left and right
+- spread out energy balls
+- fix up background images
+- Take damage when on the ground
+- Remove objects in training...rocks
+- Can't run in ships..they don't die but take damage instead
+
+DONE
+- The starting of the game with "Super Pig" and the Loading could be prettier.
+- Make sure changing the players box doesn't effect screen buounds
+- Pause game
+- Restart level takes a bit.  I thought it crashed.
+- Dont report a new level unlocked if it's unlocked already
+- remove the 's' on levels when unlocked
+- Add version.of
+- Invisible enemy
+- For normal make all paths 2
+- More points for different difficulties.
+- For hard make all paths 2 and add 50% more healths
+- Training missing
+- "Loading" when a level is selected.
+- More points for higher level enemy
+- Dead..continue?
+- Game over on health <= 0
+- More level aliens(colors)
+- Fix bounding boxes for larger enemys
+- Stop moving if we hit the end of the screen

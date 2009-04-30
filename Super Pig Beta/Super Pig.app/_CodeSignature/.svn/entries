@@ -1,0 +1,40 @@
+8
+
+dir
+10
+svn+ssh://ryan@svn1/var/www/repo/SuperPig/Super%20Pig%20Beta/Super%20Pig.app/_CodeSignature
+svn+ssh://ryan@svn1/var/www/repo
+
+
+
+2008-12-02T18:35:19.007513Z
+10
+ryan
+
+
+svn:special svn:externals svn:needs-lock
+
+
+
+
+
+
+
+
+
+
+
+aa3ddb7f-2a6f-47d7-aebb-116027b1a2a3
+
+CodeResources
+file
+
+
+
+
+2008-12-02T19:23:51.000000Z
+0877a96114ad62ed8739316b41c3cef8
+2008-12-02T18:35:19.007513Z
+10
+ryan
+
